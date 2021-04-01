@@ -2,16 +2,18 @@ body{
   width: 80%;
   margin: 0 auto;
   max-width: 800px;
-  background:#fff3e6
+  background:#fff3e6;
 }
 h1{text-align: center;}
 h2{text-align: center;}
 
 .blogCard {
-  border: 1px solid #ddd;
+  width:50%;
+  border: 2px solid #ddd;
   border-radius: 3px;
   padding: 12px;
   margin-bottom: 1.6rem;
+  background:#fff;
 }
 .blogCardCont {
   position: relative;
